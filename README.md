@@ -1,2 +1,2 @@
-# ECC
-Vanity
+# Ecclesiastes
+All is Vanity
